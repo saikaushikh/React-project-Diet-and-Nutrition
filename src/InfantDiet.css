@@ -1,0 +1,46 @@
+/* src/components/InfantDiet.css */
+.infant-diet {
+  background-image: url('https://s3.amazonaws.com/media.thecrimson.com/photos/2020/11/06/010534_1346719.gif');
+  background-size: cover; /* Adjust as needed */
+  background-repeat: no-repeat;
+  min-height: 100vh; /* Set a minimum height to cover the entire viewport */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white; /* Adjust text color for visibility */
+}
+
+/* Your existing styling for nutrients and diet sections */
+/* src/components/InfantDiet.css */
+.infant-diet {
+  background-image: url('https://msurguy.github.io/gifloopcoder.com/example2.gif');
+  background-size: cover; /* Adjust as needed */
+  background-repeat: no-repeat;
+  min-height: 100vh; /* Set a minimum height to cover the entire viewport */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color:white; /* Adjust text color for visibility */
+}
+
+.infant-diet-content {
+  max-width: 600px; /* Adjust as needed */
+  padding: 20px;
+  text-align: left;
+}
+.ba{
+  /* top: 50; */
+  width: 90px;
+  background-color: #04AA6D; 
+  border: none;
+  color: white;
+  padding: 10px 3px;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  margin-right: 100%;
+}
+
+/* Additional styling for nutrients and diet sections if needed */

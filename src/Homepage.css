@@ -1,0 +1,23 @@
+.ab{
+    /* top: 50; */
+    width: 100px;
+    background-color: #04AA6D; 
+    border: none;
+    color: white;
+    padding: 1px 1px;
+    display: flex;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 100%;
+    
+}
+.Hpbg{
+    background-image: url('https://c0.wallpaperflare.com/preview/435/467/769/agriculture-color-cooking-diet.jpg');
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+}
+.Dan{
+    background-image: url('https://c0.wallpaperflare.com/preview/435/467/769/agriculture-color-cooking-diet.jpg');
+    background-color :bisque;
+}

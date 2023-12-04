@@ -1,0 +1,50 @@
+.teenage-diet {
+  background-image: url('https://www.designandpaper.com/wp-content/uploads/2019/06/magoz-starting-over-animation-gif-loop.gif');
+  background-size: cover; /* Adjust as needed */
+  background-repeat: no-repeat;
+  min-height: 100vh; /* Set a minimum height to cover the entire viewport */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color:white; /* Adjust text color for visibility */
+}
+
+.teenage-diet-content {
+  max-width: 600px; /* Adjust as needed */
+  padding: 20px;
+  text-align: left;
+}
+
+/* Additional styling for nutrients and diet sections if needed */
+
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+  h1 {
+    text-align: center;
+  }
+  
+  .nutrients,
+  .diet {
+    margin-bottom: 30px;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li::before {
+    content: '•';
+    margin-right: 5px;
+  }
+  
+  p {
+    line-height: 1.6;
+  }

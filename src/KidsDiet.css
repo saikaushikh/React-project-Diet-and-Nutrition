@@ -1,0 +1,17 @@
+.kids-diet {
+  background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/fs/8161fc93404525.5e63f9c637e84.gif');
+  background-size: cover; /* Adjust as needed */
+  background-repeat: no-repeat;
+  min-height: 100vh; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color :white; /* Adjust text color for visibility */
+}
+
+.kids-diet-content {
+  max-width: 600px; /* Adjust as needed */
+  padding: 20px;
+  text-align: left;
+}

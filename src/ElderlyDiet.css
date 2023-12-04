@@ -1,0 +1,21 @@
+/* src/components/ElderlyDiet.css */
+
+.elderly-diet {
+  background: url('https://i.pinimg.com/originals/80/73/95/807395df34c8fd7aff556798250af3f0.gif') center/cover no-repeat; /* Update the path to your GIF */
+  color: white; /* Set text color to white for better visibility */
+  height: 100vh; /* Set the height to fill the entire viewport */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.nutrients,
+.diet {
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent background for better text visibility */
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+/* Rest of your existing styles */

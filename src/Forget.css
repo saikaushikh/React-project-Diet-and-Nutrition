@@ -1,0 +1,54 @@
+/* ForgetPassword.css */
+.fgp{
+display: flex;
+align-items: center;
+justify-content: center;
+background-color :black;
+height: 100vh;
+margin: 0;
+}
+  
+  .forgot-password-container {
+    max-width: 400px;
+    background-color :antiquewhite;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+  }
+  
+  button {
+  
+    background-color: #4caf50;
+    height: 30px;
+    margin-bottom: 10px;
+    color: black;
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-bottom: 10px;
+  }
+  
+  input {
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  button[type="submit"] {
+    background-color: #4caf50;
+    color :black;
+    cursor: pointer;
+  }
